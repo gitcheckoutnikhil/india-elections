@@ -22,6 +22,7 @@ This repo includes a normalized list of election results by constituency from al
 * State names have been left as they were at election time, *except* for Orissa, which was changed to Odisha in all election years.
 * In order to compare constituencies across timeframes, the names of the constituencies have been standardized to their modern names for the following constituncies: Chennai, Kolkata, Mumbai, Thiruvananthapuram, and Vadodara.
 * Many other constituencies have slight spelling changes over the years (e.g., "-pore" -> "-pur"). The 2019/most recent spelling is reflected in this data set.
+* Major parties and coalitions (notably, Congress -> INC) were converted to their popular abbreviations.  Other parties and most other coalitions were abbreviated with just their first letters.  I couldn't find any instances of conflicts, but this may have resulted in some extremely minor parties being accidentally combined.
 
 ## Contributing
 There are a number of gaps in the data.  Plus, the sheer volume of data—much of which came from scraped PDF tables—means that there are likely a number of errors or inconsistencies across the years.
